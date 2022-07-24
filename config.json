@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "jwt": {
+      "secret": "lantronix_dev_revanth@105&",
+      "header": "lantronix_dev",
+      "expiresIn": "id"
+    },
+    "password": {
+      "key": "latronix_dev_Rev@nth12345!@#$%^&",
+      "iv": "latronix_dev_Rev",
+      "algorithm": "aes-256-cbc"
+    }
+  }
+}
